@@ -1,0 +1,45 @@
+body {
+  background-color: lightgrey;
+}
+h1{
+    color:black;
+    font-weight: bolder;
+    text-align: center;
+}
+#as{
+    text-align: center;
+    font-size: large;
+    color: darkslategrey;
+    font-style: italic;
+    
+}
+#We{
+    text-align: center;
+    text-shadow: 0ch;
+    
+}
+img{width: 100%;
+    height: 50;
+    object-fit: fill;
+}
+span{color: brown;
+}
+hr{color: brown;}
+p{margin-top: 0;
+margin-bottom: 0;}
+.navbar{color: black;
+list-style: none;
+margin: 0;
+padding: 0;
+display: flex;
+gap: 30px;}
+.navbar a{
+    color: rgb(62, 2, 2);
+    text-decoration: none;
+    font-size: 14px;
+}
+#con{
+    color: black;
+    font-weight: bolder;
+    text-align: left;
+}
